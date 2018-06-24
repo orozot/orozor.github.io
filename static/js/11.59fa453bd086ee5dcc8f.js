@@ -1,0 +1,2 @@
+webpackJsonp([11],{eGVc:function(n,a){n.exports="# D3.js 学习记录  \n\n## API\n比例尺的使用:  \nd3.scaleLinear():返回一个线性比例尺  \nd3.max():数组最大值  \nd3.min():数组最小值  \nd3.domain():比例尺定义域  \nd3.range():比例尺值域  \n对于离散型定义域和值域，采用序数比例尺:  \nd3.scale.ordinal():返回一个序数比例尺\n"}});
+//# sourceMappingURL=11.59fa453bd086ee5dcc8f.js.map
